@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Creating content**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-7ab18.web.app/](https://my-portfolio-7ab18.web.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-7ab18.web.app/)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **saifulislam1hridoy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mTgb1820Soi4q2P4OkYG4vJlnfF-DfMP/view?usp=sharing](https://drive.google.com/file/d/1mTgb1820Soi4q2P4OkYG4vJlnfF-DfMP/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1kMdVct5onxkmy4mKdNfSP5xdGLLXUxOD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
